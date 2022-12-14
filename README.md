@@ -2,8 +2,10 @@
 
  <div>
  
+
+ 
   <a href="https://github.com/ricardogranar”>
-  <a href="https://www.linkedin.com/in/ricardograna" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/luis-martínez-enríquez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:ricardogranarosales@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
   <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ricardogranar&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> 
@@ -23,7 +25,6 @@
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="GITHUB" height="30" width="30" src="./klipartz.com.png" />
 
 </div>
    
