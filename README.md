@@ -1,7 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
  <div>
- 
 
 
   <a href="https://www.linkedin.com/in/ricardograna" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -27,6 +26,7 @@
 
 </div>
    
+ <iframe src="https://giphy.com/embed/c5RzZOHPgry80" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-vinyl-c5RzZOHPgry80">via GIPHY</a></p>
  
  
  
