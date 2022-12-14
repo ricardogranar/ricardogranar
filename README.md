@@ -3,9 +3,8 @@
  <div>
  
 
- 
-  <a href="https://github.com/ricardogranar”>
-  <a href="https://www.linkedin.com/in/luis-martínez-enríquez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  <a href="https://www.linkedin.com/in/ricardograna" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:ricardogranarosales@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
   <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ricardogranar&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> 
