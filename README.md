@@ -25,10 +25,14 @@
   <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 </div>
-   <p>
- </p>
+  
+  ##
+ 
+<div>
 
  ![giphy](https://user-images.githubusercontent.com/113988168/207731009-586dc73b-9685-4017-8a44-2695173e8051.gif)
+ 
+ </div>
 
  
  
