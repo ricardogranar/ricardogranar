@@ -26,7 +26,8 @@
 
 </div>
    
- <iframe src="https://giphy.com/embed/c5RzZOHPgry80" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-vinyl-c5RzZOHPgry80">via GIPHY</a></p>
+       <img src="https://media.giphy.com/media/c5RzZOHPgry80/giphy.gif" width="300" />
+
  
  
  
