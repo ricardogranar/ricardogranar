@@ -1,39 +1,26 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+# Hi, I'm Ricardo Graña 👋
 
- <div>
+**AI Software Engineer at Lemonglade** · Pontevedra, Galicia, Spain
 
+[![Portfolio](https://img.shields.io/badge/ricardostudio.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ricardostudio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardograna/)
 
-  <a href="https://www.linkedin.com/in/ricardograna" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ricardogranarosales@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
-  <div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ricardogranar&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> 
-  </div>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardogranar&layout=compact&langs_count=7&theme=gotham"/>
-</div>
-<div>
-<br>
-  <img align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-   <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+I build software where architecture, performance and user experience actually fit together in production.
 
-</div>
-  
-  ##
- 
-<div>
- 
-![giphy (1)](https://user-images.githubusercontent.com/113988168/207734452-f592b804-f285-480a-a767-5b148f4fc4a6.gif)
+At **Lemonglade** we build custom software for companies and for our own SaaS products, applying AI where it removes real bottlenecks: process automation, agents and **MCP** integrations that let models work directly with the tools teams already use.
 
+Before that, at **Corvus Belli**, I built their digital platforms and led the internal training that brought AI, and its technical protocol, into the company.
 
- </div>
+### Stack
 
- 
- 
+TypeScript · React · Next.js · Node.js · PostgreSQL · AWS · LLM orchestration & integration · Model Context Protocol · Three.js
+
+### Featured work
+
+- **[Apple Museum](https://applemuseum.ricardostudio.com)**: an interactive, bilingual Cover Flow museum of 50 years of Apple computers (1976–2026), with real photos, a UI that morphs into each era's OS and a zero-dependency static build. [Source](https://github.com/ricardogranar/applemuseum)
+- **[Warcrow](https://www.warcrow.com/en)**: internationalized website built with Next.js and TypeScript, Server Components, Tailwind and NextUI (Corvus Belli).
+- **[Infinity Universe](https://infinityuniverse.com/en)**: full-stack development of the official Infinity Universe platform with React, Next.js, TypeScript, Tailwind, Node.js and AWS (Corvus Belli).
+
+### Off the clock
+
+I restore classic Macintosh computers. Dealing with memory measured in kilobytes leaves a useful habit: measuring performance and resources very carefully, and these days every token you send to a model.
