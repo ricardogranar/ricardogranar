@@ -1,5 +1,7 @@
 # Hi, I'm Ricardo Graña 👋
 
+<img align="right" width="190" alt="Cats spinning records on a DJ turntable" src="https://user-images.githubusercontent.com/113988168/207734452-f592b804-f285-480a-a767-5b148f4fc4a6.gif" />
+
 **AI Software Engineer at Lemonglade** · Pontevedra, Galicia, Spain
 
 [![Portfolio](https://img.shields.io/badge/ricardostudio.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ricardostudio.com)
